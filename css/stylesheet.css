@@ -1,0 +1,71 @@
+table {
+  border: 1px solid black;
+  width: 80%;
+
+  /*background-image: url("../media/img/kermit.jpg");
+  background-repeat:repeat;
+  background-size: 50px;*/
+}
+table,th,td{
+  border-collapse: collapse;
+}
+th {
+  border: 1px solid black;
+
+}
+td{
+  width: 160px;
+  height: 50px;
+  text-align:center;
+}
+.data{
+  background-color: #99ccff;
+}
+.science{
+  background-color: #009900;
+}
+.english{
+  background-color: #ff6600;
+}
+.webdev{
+  background-color: #ffcc00;
+}
+.writing{
+ background-color: #006666;
+}
+.greek{
+  background-color: #cc6699;
+}
+.history{
+  background-color: #333399;
+}
+.latin{
+  background-color: #008080;
+}
+.art{
+  background-color: #ccff66;
+}
+.free{
+  background-color: #b32400;
+}
+.theater{
+  background-color:#cc99ff;
+}
+.health{
+ background-color: #ff6666;
+}
+.vgp{
+ background-color:#996633;
+}
+.advisory{
+  background-color:#737373;
+}
+.math {
+  background-color: #0066cc;
+}
+.period{
+  width: 85px;
+}
+div.border > div{
+  background-color: magenta;
+}

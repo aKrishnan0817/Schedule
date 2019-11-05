@@ -1,0 +1,78 @@
+div.border > div{
+  border: 1px solid black;
+  text-align: center;
+}
+th,td {
+  text-align: center;
+  border: 1px solid black;
+}
+div.container{
+  margin: auto !important;
+}
+table{
+  width: 80%;
+}
+span{
+  text-align: center;
+}
+.data{
+  background-color: #99ccff;
+}
+.science{
+  background-color: #009900;
+}
+.english{
+  background-color: #ff6600;
+}
+.webdev{
+  background-color: #ffcc00;
+}
+.writing{
+ background-color: #006666;
+}
+.greek{
+  background-color: #cc6699;
+}
+.history{
+  background-color: #333399;
+}
+.latin{
+  background-color: #008080;
+}
+.art{
+  background-color: #ccff66;
+}
+.free{
+  background-color: #b32400;
+}
+.theater{
+  background-color:#cc99ff;
+}
+.health{
+ background-color: #ff6666;
+}
+.vgp{
+ background-color:#996633;
+}
+.advisory{
+  background-color:#737373;
+}
+.math {
+  background-color: #0066cc;
+}
+#monday,#tuesday,#wensday,#thursday,#friday{
+  font-size: 25px;
+}
+div{
+  font-family: 'Lora', serif;
+}
+.daylink{
+  text-align: center;
+}
+nav{
+  text-align: left;
+}
+a:hover{
+  color: blue;
+  font-size: 150%;
+}
